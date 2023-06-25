@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Ignore test results
+*.pytest_cache/
+
